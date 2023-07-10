@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": "^7.4|^8.0",
         "walangkaji/mancurl": "^1.1",
         "imangazaliev/didom": "^2.0",
         "illuminate/collections": "*"
